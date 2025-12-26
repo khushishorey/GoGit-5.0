@@ -35,7 +35,7 @@ cd GoGit-5.0
 
 and read the [CONTRIBUTING.md](https://github.com/opencodeiiita/GoGit-5.0/blob/main/CONTRIBUTING.md) for all the instructions
 
-## (ദ്ദി ˙˙ᗜ ˙) Directory Overview
+## (ദ്ദി ˙ᗜ ˙) Directory Overview
 
 ```
 GoGit-5.0/
